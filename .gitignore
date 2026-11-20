@@ -60,4 +60,3 @@ containers/*/target
 gzipped_assets
 
 deploy-lock-manual-deploy
-config.bat

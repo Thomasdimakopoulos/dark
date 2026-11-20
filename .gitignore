@@ -40,4 +40,3 @@ services/tunnel2-deployment/tunnel2-deployment.yaml
 gzipped_assets
 
 deploy-lock-manual-deploy
-config.bat

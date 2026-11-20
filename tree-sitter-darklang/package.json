@@ -4,7 +4,7 @@
   "description": "A tree-sitter parser to parse Darklang source code",
   "main": "bindings/node",
   "scripts": {
-    "build-parser": "node init && tree-sitter generate",
+    "build-parser": "tree-sitter generate",
     "test": "tree-sitter test",
     "parse": "tree-sitter parse"
   },
